@@ -1,0 +1,5 @@
+Price of Rice : $20
+Price of oil  : $10
+Price of charger: $20
+Price of powerbank: $50
+price of milk   : $10
